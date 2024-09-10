@@ -1,0 +1,15 @@
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/lexicon-employee-register.GeneratedMSBuildEditorConfig.editorconfig
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/lexicon-employee-register.AssemblyInfoInputs.cache
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/lexicon-employee-register.AssemblyInfo.cs
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/lexicon-employee-register.csproj.CoreCompileInputs.cache
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/lexicon-employee-register.sourcelink.json
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/bin/Debug/net8.0/lexicon-employee-register
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/bin/Debug/net8.0/lexicon-employee-register.deps.json
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/bin/Debug/net8.0/lexicon-employee-register.runtimeconfig.json
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/bin/Debug/net8.0/lexicon-employee-register.dll
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/bin/Debug/net8.0/lexicon-employee-register.pdb
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/lexicon-employee-register.dll
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/refint/lexicon-employee-register.dll
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/lexicon-employee-register.pdb
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/lexicon-employee-register.genruntimeconfig.cache
+/Users/didrikmolinder/code/csh/lexicon-employee-register/lexicon-employee-register/obj/Debug/net8.0/ref/lexicon-employee-register.dll
