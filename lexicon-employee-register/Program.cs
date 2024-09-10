@@ -13,7 +13,9 @@ namespace Program
             while (true)
             {
                 PrintMenu();
+#pragma warning disable CS8600
                 string choice = Console.ReadLine();
+#pragma warning disable CS8600
 
                 switch (choice)
                 {
