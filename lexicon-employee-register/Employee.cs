@@ -2,20 +2,20 @@ namespace Employee
 {
     class Employee
     {
-        private string FirstName;
-        private string LastName;
-        private decimal Salary;
+        private string firstname;
+        private string lastname;
+        private decimal salary;
 
-        public Employee(string firstName, string lastName, decimal salary)
+        public Employee(string firstNameArg, string lastNameArg, decimal salaryArg)
         {
-            FirstName = firstName;
-            LastName = lastName;
-            Salary = salary;
+            firstname = firstNameArg;
+            lastname = lastNameArg;
+            salary = salaryArg;
         }
 
         public string GetInfo()
         {
-            return $"Name: {FirstName} {LastName}, Salary: {Salary:C}";
+            return $"Name: {firstname} {lastname}, Salary: {salary:C}";
         }
     }
 }
