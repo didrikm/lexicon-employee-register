@@ -10,9 +10,7 @@ namespace lexicon_employee_register
             {
                 Console.Clear();
                 PrintMenu();
-#pragma warning disable CS8600
-                string choice = Console.ReadLine();
-#pragma warning disable CS8600
+                string choice = Console.ReadLine() ?? string.Empty;
 
                 switch (choice)
                 {
