@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using RegisterInterface;
 
-namespace Program
+namespace lexicon_employee_register
 {
     class Program
     {
         static void Main(string[] args)
         {
-            RegisterInterface.RegisterInterface registerInterface =
-                new RegisterInterface.RegisterInterface();
+            RegisterInterface registerInterface = new();
         }
     }
 }

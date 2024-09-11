@@ -1,4 +1,4 @@
-namespace Employee
+namespace lexicon_employee_register
 {
     class Employee
     {

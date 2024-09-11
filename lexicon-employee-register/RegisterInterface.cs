@@ -1,10 +1,8 @@
-using Employee;
-
-namespace RegisterInterface
+namespace lexicon_employee_register
 {
     public class RegisterInterface
     {
-        static List<Employee.Employee> employees = new List<Employee.Employee>();
+        static List<Employee> employees = new List<Employee>();
 
         public RegisterInterface()
         {
@@ -69,7 +67,7 @@ namespace RegisterInterface
                 Console.WriteLine("\nInvalid salary. Please enter a valid number.");
             }
 
-            employees.Add(new Employee.Employee(firstName, lastName, salary));
+            employees.Add(new Employee(firstName, lastName, salary));
             Console.WriteLine("\nEmployee added successfully.");
         }
 
