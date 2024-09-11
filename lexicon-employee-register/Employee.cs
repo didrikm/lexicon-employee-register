@@ -2,9 +2,9 @@ namespace Employee
 {
     class Employee
     {
-        public string FirstName;
-        public string LastName;
-        public decimal Salary;
+        private string FirstName;
+        private string LastName;
+        private decimal Salary;
 
         public Employee(string firstName, string lastName, decimal salary)
         {
